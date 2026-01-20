@@ -48,7 +48,7 @@ O app busca resolver isso com uma experiência conversacional e recomendações 
 
 ##### 
 
-Resultado Final no Loveble: https://ask-money-bot.lovable.app
+Resultado Final no Loveble: https://ask-money-bot.lovable.app/auth 
 
 ######
 
